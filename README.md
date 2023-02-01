@@ -13,7 +13,7 @@ Plug 'https://git.sr.ht/~talfus-laddus/hoon-stdlib.vim', { 'branch': 'main' }
 
 Run the help command with the name:
 ```
-:help add
+:help ++add
 ```
 
 ## About
