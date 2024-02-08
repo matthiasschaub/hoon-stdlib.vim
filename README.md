@@ -6,7 +6,7 @@ Vim help file for Hoon Standard Library in disguise of a plugin.
 
 Using [vim-plug](https://github.com/junegunn/vim-plug):
 ```
-Plug 'https://git.sr.ht/~talfus-laddus/hoon-stdlib.vim', { 'branch': 'main' }
+Plug 'https://github.com/matthiasschaub/hoon-stdlib.vim', { 'branch': 'main' }
 ```
 
 ## Usage
